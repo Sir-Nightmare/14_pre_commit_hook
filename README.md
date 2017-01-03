@@ -15,7 +15,7 @@ You can use this script in following way:
 The `get_roots` function is tested.  
 If you need to modify the function and want to check it before each commit
 you can put put `pre-commit` file to `.git\hooks`  
-The commit will be done only if all tests will work properly. 
+The commit will be done only if all tests work properly. 
 Otherwise an error message will be shown
 
 # Project Goals
